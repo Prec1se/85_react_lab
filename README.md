@@ -9,7 +9,11 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view the homepage in your browser. 
+Open [http://localhost:3000/login](http://localhost:3000/login) to view the login page in your browser. 
+Open [http://localhost:3000/register](http://localhost:3000/register) to view the registration page in your browser. 
+Open [http://localhost:3000/calculator](http://localhost:3000/calculator) to view the calulator page in your browser. 
+Open [http://localhost:3000/taskmanager](http://localhost:3000/taskmanager) to view the task manager page in your browser. 
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
