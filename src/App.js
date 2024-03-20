@@ -12,7 +12,10 @@ function App() {
     <div>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<AddButton />}/>
+          <Route path="/" element={<Home />}/>
+          <Route path="/login" element={<Login />}/>
+          <Route path="/registration" element={<Register/>}/>
+          <Route path="/calculator" element={<AddButton/>}/>
           <Route path="/taskmanager" element={<TaskManager />}/>  
         </Routes>
       </BrowserRouter>
